@@ -1,16 +1,20 @@
-## Hi there 👋
+# Portfolio Website
 
-<!--
-**abdulmananumt/abdulmananumt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository now includes a simple portfolio site ready for **GitHub Pages**.
 
-Here are some ideas to get you started:
+## Files
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `index.html` – portfolio content
+- `styles.css` – styling
+
+## Host on GitHub Pages
+
+1. Open repository **Settings** → **Pages**
+2. Under **Build and deployment**, set:
+   - **Source:** Deploy from a branch
+   - **Branch:** `main` (or your default branch), folder `/ (root)`
+3. Save and wait for deployment.
+
+Your site will be available at:
+
+- `https://abdulmananumt.github.io/abdulmananumt/`
