@@ -17,4 +17,4 @@ This repository now includes a simple portfolio site ready for **GitHub Pages**.
 
 Your site will be available at:
 
-- `https://abdulmananumt.github.io/abdulmananumt/`
+- `https://abdulmananumt.github.io/`
